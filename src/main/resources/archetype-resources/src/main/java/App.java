@@ -1,4 +1,4 @@
-package $org.siit.automation-local-proj;
+package org.siit.automation-local-proj;
 
 /**
  * Hello world!
